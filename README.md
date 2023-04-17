@@ -2,7 +2,9 @@
 
 BI Project that focuses on analysing the narratives in cinema with female leads. For example its hard to find in Oldschool Hollywood, current cinema Hollywood, Mubi, or Netflix with the authentic and engaging underrepresented stories which can be on the rise soon. Its goal its to cater to the alternative Berlin audience scene and create a community through a community app of people who track their discoveries through subjects they like, which helps people to connect in less conventional ways. Helping them prompt the conversation in a unbiased manner. Or in simple term - un-Bechdel yourself.
 
-Analysing full dataset of Box Office Performance of Movies with Female Leads and part of Movie Bechdel Test Scores (extract the part between years 1970 and 2013). The movie titles with highest potential for being unbiased entries, will be selected as a guideline to analyse further, if possible with NLP techniques to extract phrases and dynamics that the end-goal app would be prompting. 
+Analysing full dataset of Box Office Performance of Movies with Female Leads and part of Movie Bechdel Test Scores (extract the part between years 1970 and 2013). The movie titles with highest potential for being unbiased entries, will be selected as a guideline to analyse further, 
+
+Further ideas for research end project: if possible with NLP techniques to extract phrases and dynamics that the end-goal app would be prompting. 
 
 
 Day 1:  Friday Lab & Monday
